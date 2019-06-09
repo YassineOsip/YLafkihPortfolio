@@ -1,0 +1,42 @@
+@media (min-width: 576px) {
+  #stats {
+    margin-top: 10px;
+  }
+}
+
+@media (min-width: 300px) {
+  #stats {
+    margin-top: 10px;
+  }
+}
+
+.rows {
+  cursor: pointer;
+}
+
+@media (min-width: 576px) {
+  #requests {
+    margin-top: 10px;
+  }
+}
+
+@media (min-width: 300px) {
+  #requests {
+    margin-top: 10px;
+  }
+}
+
+
+
+@media (min-width: 576px) {
+  #table {
+    display: flex;
+  }
+}
+.masthead{
+  clip-path: polygon(19% 0, 88% 0, 100% 0, 100% 93%, 78% 86%, 50% 100%, 31% 82%, 0 95%, 0 51%, 0 0);
+}
+
+#about{
+  clip-path: polygon(19% 0, 88% 0, 100% 0, 100% 93%, 78% 86%, 50% 100%, 31% 82%, 0 95%, 0 51%, 0 0);
+}
