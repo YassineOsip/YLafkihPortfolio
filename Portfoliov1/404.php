@@ -9,6 +9,7 @@
     <link rel="icon" type="image/png" sizes="768x768" href="assets/img/kisspng-anonymous-function-lambda-calculus-functional-prog-ramdam-5b16644cb911a6.4568561715281941247581.png">
     <link rel="icon" type="image/png" sizes="768x768" href="assets/img/kisspng-anonymous-function-lambda-calculus-functional-prog-ramdam-5b16644cb911a6.4568561715281941247581.png">
     <link rel="icon" type="image/png" sizes="768x768" href="assets/img/kisspng-anonymous-function-lambda-calculus-functional-prog-ramdam-5b16644cb911a6.4568561715281941247581.png">
+    <link rel="icon" type="image/png" sizes="768x768" href="assets/img/kisspng-anonymous-function-lambda-calculus-functional-prog-ramdam-5b16644cb911a6.4568561715281941247581.png">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic">
