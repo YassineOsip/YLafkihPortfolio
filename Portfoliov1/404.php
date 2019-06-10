@@ -28,7 +28,7 @@
             <div class="row" style="margin-bottom: 15px;">
                 <div class="col d-lg-flex justify-content-lg-center"><img class="bounce animated infinite" src="assets/img/gifanim.gif"></div>
                 <div class="col d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center"><button class="btn btn-primary border rounded" type="button" style="background-color: #5eddc1;color: #222222;opacity: 1;">GO BACK HOME</button></div>
-            </div>
+            </div>ssr
             <div class="row">
                 <div class="col d-lg-flex justify-content-lg-center">
                     <h1 class="display-3 text-center text-sm-center text-md-center text-lg-center text-xl-center" style="color: #222222;background-color: #5eddc1;opacity: 1;">&nbsp;404 &nbsp;Page Not Found&nbsp;</h1>
